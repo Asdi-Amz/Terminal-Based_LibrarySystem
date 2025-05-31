@@ -1,5 +1,10 @@
-Mirage|Elen Vostrikov|9780143127796|1
-Echoes|Isaac Delaney|9780307277785|1
-Stellar|Mira Calhoun|9780062315007|1
-Dune|Frank Herbert|9856734567123|0
-LOTR|John Tolkien|9784563784536|1
+Celestia|Nova Anderton|9781987654321|1  
+Shadowsong|Lyra Wexler|9780451480643|1  
+Nebula Drift|Kai Morrigan|9780385754729|0  
+Iron Reign|Darius Flint|9780316440786|1  
+Frostveil|Serena Valen|9781101946343|1  
+The Obsidian Code|Marcus Virell|9780525953902|0  
+Ashen Sky|Juno Merrick|9780062458711|1  
+The Parallax Theory|Vega Sorn|9781250080803|1  
+Chronos Fault|Rhea Vost|9780765377067|1  
+Epitaph of Stars|Callen Thorne|9780553392045|0  
