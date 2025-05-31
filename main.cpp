@@ -1,5 +1,5 @@
-// Asdi V. Amamence
-// The main srcs
+// Asdi V. Amamence (SAT MAY 31, 2025)
+// The main of the Library Management System
 #include "Library.h"
 #include <iostream>
 #include <exception>
